@@ -1,9 +1,6 @@
-# zoplete
-Single-file flask app to deploy and manage kubernetes clusters (with flux and a marketplace)
+☸️ Zoplete K8s Manager (Flask Edition)
 
-☸️ Vanilla K8s Manager (Flask Edition)
-
-Vanilla K8s Manager is a robust, single-file GUI tool designed to bootstrap, manage, and monitor "Vanilla" Kubernetes clusters on bare-metal servers or VMs.
+Zoplete - K8s Manager is a robust, single-file GUI tool designed to bootstrap, manage, and monitor "Vanilla" Kubernetes clusters on bare-metal servers or VMs.
 
 Now powered by Flask and Material Design 3, it offers a modern, responsive interface to handle the complex process of setting up kubeadm clusters, managing worker nodes, and deploying complex data stacks via GitOps (FluxCD).
 
