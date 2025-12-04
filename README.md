@@ -46,7 +46,7 @@ Access Management: Automatically discovers NodePorts and generates clickable lin
 
 4. 📊 Observability
 
-<img width="928" height="685" alt="image" src="https://github.com/user-attachments/assets/fb3ef153-2b29-42cf-99a2-9923cc787cde" />
+<img width="924" height="647" alt="image" src="https://github.com/user-attachments/assets/a9044272-d85d-434d-b867-142656bbd70b" />
 
 Live Monitoring: Real-time, streaming charts for Cluster CPU and Memory usage.
 
