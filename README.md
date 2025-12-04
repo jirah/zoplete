@@ -7,7 +7,7 @@ Now powered by Flask and Material Design 3, it offers a modern, responsive inter
 ✨ Key Features
 
 1. 🎨 Modern UI & UX
-<img width="929" height="610" alt="image" src="https://github.com/user-attachments/assets/3c15e5d5-66ab-4289-b27e-600991c2df20" />
+<img width="934" height="606" alt="image" src="https://github.com/user-attachments/assets/4142c05c-6a68-4e27-9acd-6d27ae3db6b8" />
 
 Material Design 3: A clean, Google-inspired interface with responsive layouts, card-based dashboards, and smooth transitions.
 
@@ -24,7 +24,7 @@ Worker Onboarding: Generates custom Bash and Cloud-Init scripts to join new node
 Node Management: View live node status (CPU/RAM in GiB) and detach worker nodes directly from the UI.
 
 3. 🛍️ App Marketplace (GitOps)
-<img width="933" height="1118" alt="image" src="https://github.com/user-attachments/assets/9bf8f848-cd7a-4579-b8ce-cf71e9a6b645" />
+<img width="927" height="1124" alt="image" src="https://github.com/user-attachments/assets/45d00798-a1bd-4133-a3f7-6bffd2583919" />
 
 FluxCD Integration: Automatically installs and manages Flux controllers.
 
@@ -46,7 +46,7 @@ Access Management: Automatically discovers NodePorts and generates clickable lin
 
 4. 📊 Observability
 
-<img width="924" height="647" alt="image" src="https://github.com/user-attachments/assets/a9044272-d85d-434d-b867-142656bbd70b" />
+<img width="940" height="650" alt="image" src="https://github.com/user-attachments/assets/64c9d02a-482a-4c50-a6b4-744192b6d44e" />
 
 Live Monitoring: Real-time, streaming charts for Cluster CPU and Memory usage.
 
